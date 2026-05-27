@@ -1,6 +1,6 @@
-# Calculadora Python
+# Python Calculator Project
 
-Projeto desenvolvido para praticar lógica de programação utilizando Python.
+Projeto desenvolvido em Python para praticar lógica de programação.
 
 ## Funcionalidades
 - Soma
@@ -12,3 +12,14 @@ Projeto desenvolvido para praticar lógica de programação utilizando Python.
 
 ## Tecnologias utilizadas
 - Python
+
+## Conceitos praticados
+- Variáveis
+- Condicionais
+- Loops
+- Input de usuário
+- Operadores matemáticos
+- Estrutura de repetição
+
+## Objetivo
+Evoluir conhecimentos em Python através de projetos práticos e desenvolvimento contínuo.
