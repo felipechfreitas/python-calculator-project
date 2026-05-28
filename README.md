@@ -23,3 +23,8 @@ Projeto desenvolvido em Python para praticar lógica de programação.
 
 ## Objetivo
 Evoluir conhecimentos em Python através de projetos práticos e desenvolvimento contínuo.
+
+## Novas melhorias
+- Implementação de funções
+- Melhor organização do código
+- Validação de entrada
