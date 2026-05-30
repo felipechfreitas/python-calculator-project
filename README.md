@@ -28,3 +28,14 @@ Evoluir conhecimentos em Python através de projetos práticos e desenvolvimento
 - Implementação de funções
 - Melhor organização do código
 - Validação de entrada
+
+## Funcionalidades
+
+- Soma
+- Subtração
+- Multiplicação
+- Divisão
+- Menu interativo
+- Tratamento de erros com try/except
+- Validação de divisão por zero
+- Funções para cada operação matemática
